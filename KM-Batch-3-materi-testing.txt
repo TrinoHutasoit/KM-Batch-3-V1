@@ -3,6 +3,8 @@ Materi
 - membuat test plan
   * latar belakang
   * scope testing
+   > back end testing
+   > front end testing
 - fundamental testing
 - membuat test skenario
 - membuat test case
