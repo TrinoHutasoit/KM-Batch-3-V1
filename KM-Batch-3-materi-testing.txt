@@ -3,6 +3,9 @@ Materi
 - membuat test plan
   * latar belakang
   * scope testing
+   > manual testing
 - fundamental testing
 - membuat test skenario
+ * testrail
 - membuat test case
+ * testrail
