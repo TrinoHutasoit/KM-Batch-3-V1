@@ -4,6 +4,7 @@ Materi
   * latar belakang
   * scope testing
    > manual testing
+   > automation testing
 - fundamental testing
 - membuat test skenario
  * testrail
