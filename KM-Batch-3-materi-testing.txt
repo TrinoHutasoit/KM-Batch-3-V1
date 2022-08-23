@@ -1,0 +1,7 @@
+Materi
+
+- membuat test plan
+  * latar belakang
+  * scope testing
+- membuat test skenario
+- membuat test case
